@@ -1,0 +1,43 @@
+[{
+        "id": 1,
+        "code": 9743,
+        "type": "Cafecito big",
+        "price": 32,
+        "strength": 3
+    },
+    {
+        "id": 2,
+        "code": 1743,
+        "type": "Cafecito small",
+        "price": 22,
+        "strength": 1
+    },
+    {
+        "id": 3,
+        "code": 3743,
+        "type": "Cafecito medium",
+        "price": 21,
+        "strength": 2
+    },
+    {
+        "id": 4,
+        "code": 93,
+        "type": "Cafecito large",
+        "price": 21,
+        "strength": 1
+    },
+    {
+        "id": 5,
+        "code": 913,
+        "type": "Cafecito large",
+        "price": 21,
+        "strength": 1
+    },
+    {
+        "id": 6,
+        "code": 913,
+        "type": "Cafecito large",
+        "price": 21,
+        "strength": 1
+    }
+]
